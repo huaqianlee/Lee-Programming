@@ -1,6 +1,6 @@
 /*
  * Input n, m; n < 10, m < 10000, input n different intiger.
- * Output the nums which couldn't be divide by n intigers in 1~M.
+ * Output the nums which couldn't be divided by n intigers in 1~M.
  * 
  * Example: 
  * 	Input: 3 12
@@ -18,6 +18,7 @@ void another_way(){
 	scanf("%d%d", &n, &m);
 	for (int i = 0; i < n; ++i) {
 		scanf ("%d",&num);
+		/* Get the nums which can be divided */
 		for (int j = num; j <= m; j += num)
 			check[j] = 1;
 	}
