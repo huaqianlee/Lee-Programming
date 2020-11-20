@@ -20,4 +20,5 @@ First, start with the C language I am most familiar with.
 | 10  | Input and output a float with random digits                    |     [C](C/random_float.c)      |                                                                                         |
 | 11  | Output the nums which couldn't be divided by n intigers in 1~m |       [C](C/rm_multy.c)        |                                                                                         |
 | 12  | Output a string recursively                                    |    [C](C/recurse_string.c)     | Termination condition: str[i]                                                           |
+| 13  | Imitate scanf to implement my_scanf                            |        [C](my_scanf.c)         |                                                                                         |
 
