@@ -22,15 +22,15 @@ For a long time, I have been doing BSP related work. Although I am very interest
 
 # [Hackerrank](https://www.hackerrank.com/)
 
-| #   | Title | Solution | Difficulty |
-| --- | ----- | -------- | ---------- |Comment- |-------------------------------------------------------------------------------- | ---------- |
-| 1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |      [C](hackerrank/c/data_types.c)       | `while(getchar != '\n')` to clean input buffer                                          |Easy|
+| #   | Title                                                                     | Solution                       | Comment                                        | Difficulty |
+| --- | ------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------- | ---------- |
+| 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [C](hackerrank/c/data_types.c) | `while(getchar != '\n')` to clean input buffer | Easy       |
 
 # [Project Euler](https://projecteuler.net/)
 
-| #   | Title | Solution | Difficulty |
-| --- | ----- | -------- | ---------- |Comment- |-------------------------------------------------------------------------------- | ---------- |
-| 1  | [Multiples of 3 and 5](https://projecteuler.net/problem=1) |      [C](projecteuler/c/multi_of_3_5.c)       |                                          |Easy|
+| #   | Title                                                      | Solution                           | Comment | Difficulty |
+| --- | ---------------------------------------------------------- | ---------------------------------- | ------- | ---------- |
+| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [C](projecteuler/c/multi_of_3_5.c) |         | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
