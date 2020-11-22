@@ -2,24 +2,46 @@
 
 For a long time, I have been doing BSP related work. Although I am very interested in programming, I have been learning too much without a solid foundation, and have poor programming skills. This makes me sad, so I am ready to learn again, and to do enough proactive programming.
 
-# C Language
+# Free practice
 
-First, start with the C language I am most familiar with.
+| #   | Summary                                                        |                  Solution                   | Comment                                                                                 |
+| --- | -------------------------------------------------------------- | :-----------------------------------------: | --------------------------------------------------------------------------------------- |
+| 1   | Caculate the decimal digits of an input integer                | [C](freepractice/c/decimal_digits_of_int.c) | return value of `printf/sprintf/scanf/...` clusters                                     |
+| 2   | Input one line included space                                  | [C](freepractice/c/input_line_with_space.c) | `scanf("%[^\n]s",str);`                                                                 |
+| 3   | Output with color                                              |   [C](freepractice/c/output_with_color.c)   | Format：`\033[attribute{;attribut...}moutput\033[0m`                                    |
+| 4   | Output the date x days after the specified date                |     [C](freepractice/c/caculate_date.c)     |                                                                                         |
+| 5   | 9*9 mutiplication table                                        |  [C](freepractice/c/mutiplication_table.c)  | `j == 1 \| printf("\t");`                                                               |
+| 6   | Output random numbers between 1 and 100                        |      [C](freepractice/c/1_100_rand.c)       | Euler's function, Euler's theorem, Fermat's little theorem, remainder cycle knots, etc. |
+| 7   | Caculate PI                                                    |          [C](freepractice/c/PI.c)           | `π*r^2/(2r)^2 == m/n. ->  π = 4 * m/n`                                                  |
+| 8   | Caculate the bits of integer from 1 to n                       |     [C](freepractice/c/bits_caculate.c)     | Methematical induction: `f[x] = f[x & (x-1)] + 1`                                       |
+| 9   | Implement strlen,strcat,strcpy with sprintf                    | [C](freepractice/c/str_func_with_sprintf.c) |                                                                                         |
+| 10  | Input and output a float with random digits                    |     [C](freepractice/c/random_float.c)      |                                                                                         |
+| 11  | Output the nums which couldn't be divided by n intigers in 1~m |       [C](freepractice/c/rm_multy.c)        |                                                                                         |
+| 12  | Output a string recursively                                    |    [C](freepractice/c/recurse_string.c)     | Termination condition: str[i]                                                           |
+| 13  | Imitate scanf to implement my_scanf                            |       [C](freepractice/c/my_scanf.c)        |                                                                                         |
 
-| #   | Summary                                                                   |            Solution            | Comment                                                                                 |
-| --- | ------------------------------------------------------------------------- | :----------------------------: | --------------------------------------------------------------------------------------- |
-| 1   | Caculate the decimal digits of an input integer                           | [C](C/decimal_digits_of_int.c) | return value of `printf/sprintf/scanf/...` clusters                                     |
-| 2   | Input one line included space                                             | [C](C/input_line_with_space.c) | `scanf("%[^\n]s",str);`                                                                 |
-| 3   | Output with color                                                         |   [C](C/output_with_color.c)   | Format：`\033[attribute{;attribut...}moutput\033[0m`                                    |
-| 4   | Output the date x days after the specified date                           |     [C](C/caculate_date.c)     |                                                                                         |
-| 5   | 9*9 mutiplication table                                                   |  [C](C/mutiplication_table.c)  | `j == 1 \| printf("\t");`                                                               |
-| 6   | Output random numbers between 1 and 100                                   |      [C](C/1_100_rand.c)       | Euler's function, Euler's theorem, Fermat's little theorem, remainder cycle knots, etc. |
-| 7   | Caculate PI                                                               |          [C](C/PI.c)           | `π*r^2/(2r)^2 == m/n. ->  π = 4 * m/n`                                                  |
-| 8   | Caculate the bits of integer from 1 to n                                  |      [C](bits_caculate.c)      | Methematical induction: `f[x] = f[x & (x-1)] + 1`                                       |
-| 9   | Implement strlen,strcat,strcpy with sprintf                               | [C](C/str_func_with_sprintf.c) |                                                                                         |
-| 10  | Input and output a float with random digits                               |     [C](C/random_float.c)      |                                                                                         |
-| 11  | Output the nums which couldn't be divided by n intigers in 1~m            |       [C](C/rm_multy.c)        |                                                                                         |
-| 12  | Output a string recursively                                               |    [C](C/recurse_string.c)     | Termination condition: str[i]                                                           |
-| 13  | Imitate scanf to implement my_scanf                                       |       [C](C/my_scanf.c)        |                                                                                         |
-| 14  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |      [C](C/data_types.c)       | `while(getchar != '\n')` to clean input buffer                                          |
+# [Hackerrank](https://www.hackerrank.com/)
 
+| #   | Title | Solution | Difficulty |
+| --- | ----- | -------- | ---------- |Comment- |-------------------------------------------------------------------------------- | ---------- |
+| 1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) |      [C](hackerrank/c/data_types.c)       | `while(getchar != '\n')` to clean input buffer                                          |Easy|
+
+# [Project Euler](https://projecteuler.net/)
+
+| #   | Title | Solution | Difficulty |
+| --- | ----- | -------- | ---------- |Comment- |-------------------------------------------------------------------------------- | ---------- |
+| 1  | [Multiples of 3 and 5](https://projecteuler.net/problem=1) |      [C](projecteuler/c/multi_of_3_5.c)       |                                          |Easy|
+
+# [Leetcode](https://leetcode.com/problemset/all/)
+
+| #   | Title                                                                                                     | Solution                                                    | Comment | Difficulty |
+| --- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------- | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C](leetcode/c/twoSum.c), [Java](leetcode/java/TwoSum.java) |         | Easy       |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         | [C](leetcode/c/addTwoNumbers.c)                             |         | Medium     |
+| 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                         | [C](leetcode/c/reverseInteger.c)                            |         | Easy       |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                     | [C](leetcode/c/isPalindrome.c)                              |         | Easy       |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       | [Java](leetcode/java/RomantoInteger.java)                   |         | Easy       |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [Java](leetcode/java/LongestCommonPrefix.java)              |         | Easy       |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                     | [Python](leetcode/python/ValidParentheses.py)               |         | Easy       |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Java](leetcode/java/MergeTwoSortedLists.java)              |         | Esay       |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](leetcode/java/RemoveDuplicatesfromSortedArray.java)  |         | Easy       |
