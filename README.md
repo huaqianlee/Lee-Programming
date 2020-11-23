@@ -25,12 +25,15 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | #   | Title                                                                     | Solution                       | Comment                                        | Difficulty |
 | --- | ------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------- | ---------- |
 | 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [C](hackerrank/c/data_types.c) | `while(getchar != '\n')` to clean input buffer | Easy       |
+| 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)   | [C](hackerrank/c/operators.c)  | Review questions carefully                     | Easy       |
 
 # [Project Euler](https://projecteuler.net/)
 
-| #   | Title                                                      | Solution                           | Comment | Difficulty |
-| --- | ---------------------------------------------------------- | ---------------------------------- | ------- | ---------- |
-| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [C](projecteuler/c/multi_of_3_5.c) |         | Easy       |
+| #   | Title                                                        | Solution                                 | Comment                                    | Difficulty |
+| --- | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------ | ---------- |
+| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1)   | [C](projecteuler/c/multi_of_3_5.c)       |                                            | Easy       |
+| 2   | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [C](projecteuler/c/even_fibonacci_num.c) | Regard four million as million, be careful | Easy       |
+
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
