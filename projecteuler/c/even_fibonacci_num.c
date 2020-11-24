@@ -1,10 +1,14 @@
 #include <stdio.h>
 
 int fib(int num) {
+	/*
 	if (0 == num)
 		return 0;
 	if (1 == num)
 		return 1;
+	*/
+	if (num < 1) return 0;
+	if (1 == num || 2 == num) return 1;
 	return fib(num - 1) + fib(num - 2);
 }
 

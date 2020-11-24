@@ -19,6 +19,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 11  | Output the nums which couldn't be divided by n intigers in 1~m |       [C](freepractice/c/rm_multy.c)        |                                                                                 | Easy       |
 | 12  | Output a string recursively                                    |    [C](freepractice/c/recurse_string.c)     | Termination condition: `str[i]`                                                 | Easy       |
 | 13  | Imitate scanf to implement my_scanf                            |       [C](freepractice/c/my_scanf.c)        |                                                                                 | Easy       |
+| 14  | Implement fibonacci with recursion and loop                    |   [C](freepractice/c/fibonacci_by_loop.c)   | How to implement with loop?                                                     | Medium     |
 
 # [Hackerrank](https://www.hackerrank.com/)
 
