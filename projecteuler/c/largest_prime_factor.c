@@ -1,3 +1,10 @@
+/*
+ * Input: 13195
+ * Output:  5, 7, 13 and 29.
+ *
+ * Input: 600851475143
+ * Output: 71	839	1471	6857
+ */
 #include <stdio.h>
 #include <math.h>
 

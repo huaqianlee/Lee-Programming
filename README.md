@@ -24,11 +24,12 @@ For a long time, I have been doing BSP related work. Although I am very interest
 
 # [Hackerrank](https://www.hackerrank.com/)
 
-| #   | Title                                                                                             | Solution                                   | Comment                                        | Difficulty |
-| --- | ------------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------- | ---------- |
-| 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                         | [C](hackerrank/c/data_types.c)             | `while(getchar != '\n')` to clean input buffer | Easy       |
-| 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                           | [C](hackerrank/c/operators.c)              | Review questions carefully                     | Easy       |
-| 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C](hackerrank/c/conditional_statements.c) |                                                | Easy       |
+| #   | Title                                                                                             | Solution                                                                              | Comment                                        | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ---------- |
+| 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                         | [C](hackerrank/c/data_types.c)                                                        | `while(getchar != '\n')` to clean input buffer | Easy       |
+| 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                           | [C](hackerrank/c/operators.c)                                                         | Review questions carefully                     | Easy       |
+| 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C](hackerrank/c/conditional_statements.c)                                            |                                                | Easy       |
+| 4   | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)           | [Python](hackerrank/python/class_vs_instance.py), [Java](hackerrank/java/Person.java) |                                                | Easy       |
 
 
 # [Project Euler](https://projecteuler.net/)
