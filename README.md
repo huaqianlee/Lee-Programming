@@ -30,18 +30,21 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                           | [C](hackerrank/c/operators.c)                                                         | Review questions carefully                     | Easy       |
 | 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C](hackerrank/c/conditional_statements.c)                                            |                                                | Easy       |
 | 4   | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)           | [Python](hackerrank/python/class_vs_instance.py), [Java](hackerrank/java/Person.java) |                                                | Easy       |
+| 5   | [Class vs Instance](https://www.hackerrank.com/challenges/30-loops/problem)                       | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
+
+# [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
 
 # [Project Euler](https://projecteuler.net/)
 > Sharing solution is safe untill #100.
 
-| #   | Title                                                            | Solution                                   | Comment                                                                | Difficulty |
-| --- | ---------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------- | ---------- |
-| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1)       | [C](projecteuler/c/multi_of_3_5.c)         |                                                                        | Easy       |
-| 2   | [Even Fibonacci numbers](https://projecteuler.net/problem=2)     | [C](projecteuler/c/even_fibonacci_num.c)   | Regard four million as million, be careful                             | Easy       |
-| 3   | [Largest prime factor](https://projecteuler.net/problem=3)       | [C](projecteuler/c/largest_prime_factor.c) |                                                                        | Easy       |
-| 4   | [Largest palindrome product](https://projecteuler.net/problem=4) | [C](projecteuler/c/palindrome_product.c)   | The temp valuse must be initialized, otherwise the value will be messy | Easy       |
-| 5   | [Smallest multiple](https://projecteuler.net/problem=5)          | [C](projecteuler/c/smallest_mutiple.c)     |                                                                        | Easy       |
+| #   | Title                                                            | Solution                                   | Comment                                                                                   | Difficulty |
+| --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------- |
+| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1)       | [C](projecteuler/c/multi_of_3_5.c)         |                                                                                           | Easy       |
+| 2   | [Even Fibonacci numbers](https://projecteuler.net/problem=2)     | [C](projecteuler/c/even_fibonacci_num.c)   | Regard four million as million, be careful                                                | Easy       |
+| 3   | [Largest prime factor](https://projecteuler.net/problem=3)       | [C](projecteuler/c/largest_prime_factor.c) |                                                                                           | Easy       |
+| 4   | [Largest palindrome product](https://projecteuler.net/problem=4) | [C](projecteuler/c/palindrome_product.c)   | The temp valuse must be initialized, otherwise the value will be messy                    | Easy       |
+| 5   | [Smallest multiple](https://projecteuler.net/problem=5)          | [C](projecteuler/c/smallest_mutiple.c)     | [GeeksforGeeks](https://www.geeksforgeeks.org/smallest-number-divisible-first-n-numbers/) | Easy       |
 
 
 # [Leetcode](https://leetcode.com/problemset/all/)
