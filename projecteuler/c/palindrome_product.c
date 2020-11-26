@@ -6,14 +6,14 @@
 #include <stdio.h>
 
 int palindrome(int n){ 
-	int temp = 0 , backup = n;
+	int temp = 0 , backup = n; // Must init temp, otherwise the result will be random.
 
-	while(n > 0) {
+	while (n > 0) {
 		temp = temp * 10 + n % 10;
 		n /= 10;
 	}
 
-	if(temp == backup)
+	if (temp == backup)
 		return 1;
 	else
 		return 0;
@@ -22,11 +22,11 @@ int palindrome(int n){
 int get_max_palindrome () {
 	int max = 0 , temp = 0;
 
-	for(int num1 = 999; num1 >= 100; --num1) {
-		for(int num2 = 100; num2 < num1; ++num2) {
+	for (int num1 = 999; num1 > 100; --num1) {
+		for (int num2 = 100; num2 < num1; ++num2) {
 			temp = num1 * num2;
-			if(palindrome(temp)) {
-				if(temp > max)
+			if (palindrome(temp) && (temp > max)) {
+				//if(temp > max)
 					max = temp;
 			}
 		}
