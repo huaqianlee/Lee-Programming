@@ -47,6 +47,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 4   | [Largest palindrome product](https://projecteuler.net/problem=4) | [C](projecteuler/c/palindrome_product.c)   | The temp valuse must be initialized, otherwise the value will be messy                    | Easy       |
 | 5   | [Smallest multiple](https://projecteuler.net/problem=5)          | [C](projecteuler/c/smallest_mutiple.c)     | [GeeksforGeeks](https://www.geeksforgeeks.org/smallest-number-divisible-first-n-numbers/) | Easy       |
 | 6   | [Sum square difference](https://projecteuler.net/problem=6)      | [C](projecteuler/c/sum_square_diff.c)      |                                                                                           | Easy       |
+| 7   | [10001st prime](https://projecteuler.net/problem=7)              | [C](projecteuler/c/10001_prime_number.c)   | No algorithm mind                                                                         | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
