@@ -30,8 +30,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                           | [C](hackerrank/c/operators.c)                                                         | Review questions carefully                     | Easy       |
 | 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C](hackerrank/c/conditional_statements.c)                                            |                                                | Easy       |
 | 4   | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)           | [Python](hackerrank/python/class_vs_instance.py), [Java](hackerrank/java/Person.java) |                                                | Easy       |
-| 5   | [Loop](https://www.hackerrank.com/challenges/30-loops/problem)                       | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
-| 5   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                       | [C](hackerrank/c/review_loop.c)                                                              |                                                | Easy       |
+| 5   | [Loop](https://www.hackerrank.com/challenges/30-loops/problem)                                    | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
+| 5   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                      | [C](hackerrank/c/review_loop.c)                                                       | `Length of string - 1`                         | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
@@ -46,7 +46,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 3   | [Largest prime factor](https://projecteuler.net/problem=3)       | [C](projecteuler/c/largest_prime_factor.c) |                                                                                           | Easy       |
 | 4   | [Largest palindrome product](https://projecteuler.net/problem=4) | [C](projecteuler/c/palindrome_product.c)   | The temp valuse must be initialized, otherwise the value will be messy                    | Easy       |
 | 5   | [Smallest multiple](https://projecteuler.net/problem=5)          | [C](projecteuler/c/smallest_mutiple.c)     | [GeeksforGeeks](https://www.geeksforgeeks.org/smallest-number-divisible-first-n-numbers/) | Easy       |
-
+| 6   | [Sum square difference](https://projecteuler.net/problem=6)      | [C](projecteuler/c/sum_square_diff.c)      |                                                                                           | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
