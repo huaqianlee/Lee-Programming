@@ -30,7 +30,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                           | [C](hackerrank/c/operators.c)                                                         | Review questions carefully                     | Easy       |
 | 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C](hackerrank/c/conditional_statements.c)                                            |                                                | Easy       |
 | 4   | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)           | [Python](hackerrank/python/class_vs_instance.py), [Java](hackerrank/java/Person.java) |                                                | Easy       |
-| 5   | [Class vs Instance](https://www.hackerrank.com/challenges/30-loops/problem)                       | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
+| 5   | [Loop](https://www.hackerrank.com/challenges/30-loops/problem)                       | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
+| 5   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                       | [C](hackerrank/c/review_loop.c)                                                              |                                                | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
