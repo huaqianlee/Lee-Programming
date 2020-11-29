@@ -32,7 +32,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 4   | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)           | [Python](hackerrank/python/class_vs_instance.py), [Java](hackerrank/java/Person.java) |                                                | Easy       |
 | 5   | [Loop](https://www.hackerrank.com/challenges/30-loops/problem)                                    | [C](hackerrank/c/loop.c)                                                              |                                                | Easy       |
 | 6   | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                      | [C](hackerrank/c/review_loop.c)                                                       | `Length of string - 1`                         | Easy       |
-|7|[Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)|[C](hackerrank/c/arrays.c)||Easy|
+| 7   | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                 | [C](hackerrank/c/arrays.c)                                                            |                                                | Easy       |
+| 8   | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)   | [C](hackerrank/c/dictionaries_maps.c), [Python](hackerrank/python/dictinaries.py)     |                                                | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
