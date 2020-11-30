@@ -43,15 +43,16 @@ For a long time, I have been doing BSP related work. Although I am very interest
 # [Project Euler](https://projecteuler.net/)
 > Sharing solution is safe untill #100.
 
-| #   | Title                                                            | Solution                                   | Comment                                                                                   | Difficulty |
-| --- | ---------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------- |
-| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1)       | [C](projecteuler/c/multi_of_3_5.c)         |                                                                                           | Easy       |
-| 2   | [Even Fibonacci numbers](https://projecteuler.net/problem=2)     | [C](projecteuler/c/even_fibonacci_num.c)   | Regard four million as million, be careful                                                | Easy       |
-| 3   | [Largest prime factor](https://projecteuler.net/problem=3)       | [C](projecteuler/c/largest_prime_factor.c) |                                                                                           | Easy       |
-| 4   | [Largest palindrome product](https://projecteuler.net/problem=4) | [C](projecteuler/c/palindrome_product.c)   | The temp valuse must be initialized, otherwise the value will be messy                    | Easy       |
-| 5   | [Smallest multiple](https://projecteuler.net/problem=5)          | [C](projecteuler/c/smallest_mutiple.c)     | [GeeksforGeeks](https://www.geeksforgeeks.org/smallest-number-divisible-first-n-numbers/) | Easy       |
-| 6   | [Sum square difference](https://projecteuler.net/problem=6)      | [C](projecteuler/c/sum_square_diff.c)      |                                                                                           | Easy       |
-| 7   | [10001st prime](https://projecteuler.net/problem=7)              | [C](projecteuler/c/10001_prime_number.c)   | No algorithm mind                                                                         | Easy       |
+| #   | Title                                                             | Solution                                          | Comment                                                                                   | Difficulty |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------- |
+| 1   | [Multiples of 3 and 5](https://projecteuler.net/problem=1)        | [C](projecteuler/c/multi_of_3_5.c)                |                                                                                           | Easy       |
+| 2   | [Even Fibonacci numbers](https://projecteuler.net/problem=2)      | [C](projecteuler/c/even_fibonacci_num.c)          | Regard four million as million, be careful                                                | Easy       |
+| 3   | [Largest prime factor](https://projecteuler.net/problem=3)        | [C](projecteuler/c/largest_prime_factor.c)        |                                                                                           | Easy       |
+| 4   | [Largest palindrome product](https://projecteuler.net/problem=4)  | [C](projecteuler/c/palindrome_product.c)          | The temp valuse must be initialized, otherwise the value will be messy                    | Easy       |
+| 5   | [Smallest multiple](https://projecteuler.net/problem=5)           | [C](projecteuler/c/smallest_mutiple.c)            | [GeeksforGeeks](https://www.geeksforgeeks.org/smallest-number-divisible-first-n-numbers/) | Easy       |
+| 6   | [Sum square difference](https://projecteuler.net/problem=6)       | [C](projecteuler/c/sum_square_diff.c)             |                                                                                           | Easy       |
+| 7   | [10001st prime](https://projecteuler.net/problem=7)               | [C](projecteuler/c/10001_prime_number.c)          | No algorithm mind                                                                         | Easy       |
+| 8   | [Largest product in a series](https://projecteuler.net/problem=8) | [C](projecteuler/c/largest_product_in_a_series.c) |                                                                                           | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
