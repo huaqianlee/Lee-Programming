@@ -22,7 +22,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 13  | Imitate scanf to implement my_scanf                            |        [C](freepractice/c/my_scanf.c)        |                                                                                 | Easy       |
 | 14  | Implement fibonacci with recursion and loop                    |   [C](freepractice/c/fibonacci_by_loop.c)    | How to implement with loop?                                                     | Medium     |
 | 15  | Implement the loop program of indefinite layers                | [C](freepractice/c/indefinite_layers_loop.c) |                                                                                 | Medium     |
-| 16  | Find the sum of all 3 or 5 multiples within 1000               |       [C](freepractice/c/sum_of_3_5.c)       | `sum += i * (i % 3 == 0 || i % 5 == 0)`                                         | Easy       |
+| 16  | Find the sum of all 3 or 5 multiples within 1000               |       [C](freepractice/c/sum_of_3_5.c)       | `sum += i * (i % 3 == 0 \|\| i % 5 == 0)`                                       | Easy       |
+
 
 # [Hackerrank](https://www.hackerrank.com/)
 
@@ -37,6 +38,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 7   | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                 | [C](hackerrank/c/arrays.c)                                                            |                                                | Easy       |
 | 8   | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)   | [C](hackerrank/c/dictionaries_maps.c), [Python](hackerrank/python/dictinaries.py)     |                                                | Easy       |
 | 9   | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)                           | [C](hackerrank/c/recursion.c)                                                         |                                                | Easy       |
+| 10  | [Binary number](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                  | [C](hackerrank/c/binary_num.c)                                                        | `(n = n >> 1) == 0`                            | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
