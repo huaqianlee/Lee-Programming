@@ -5,24 +5,24 @@ For a long time, I have been doing BSP related work. Although I am very interest
 
 # [Free practice](http://huaqianlee.github.io/)
 
-| #   | Summary                                                        |                   Solution                   | Comment                                                                         | Difficulty |
-| --- | -------------------------------------------------------------- | :------------------------------------------: | ------------------------------------------------------------------------------- | ---------- |
-| 1   | Caculate the decimal digits of an input integer                | [C](freepractice/c/decimal_digits_of_int.c)  | return value of `printf/sprintf/scanf/...` clusters                             | Easy       |
-| 2   | Input one line included space                                  | [C](freepractice/c/input_line_with_space.c)  | `scanf("%[^\n]s",str);`                                                         | Easy       |
-| 3   | Output with color                                              |   [C](freepractice/c/output_with_color.c)    | Format：`\033[attribute{;attribut...}moutput\033[0m`                            | Easy       |
-| 4   | Output the date x days after the specified date                |     [C](freepractice/c/caculate_date.c)      |                                                                                 | Easy       |
-| 5   | 9*9 mutiplication table                                        |  [C](freepractice/c/mutiplication_table.c)   | `j == 1 \| printf("\t");`                                                       | Easy       |
-| 6   | Output random numbers between 1 and 100                        |       [C](freepractice/c/1_100_rand.c)       | Euler's function, theorem, Fermat's little theorem, remainder cycle knots, etc. | Hard       |
-| 7   | Caculate PI                                                    |           [C](freepractice/c/PI.c)           | `π*r^2/(2r)^2 == m/n. ->  π = 4 * m/n`                                          | Easy       |
-| 8   | Caculate the bits of integer from 1 to n                       |     [C](freepractice/c/bits_caculate.c)      | Methematical induction: `f[x] = f[x & (x-1)] + 1`                               | Medium     |
-| 9   | Implement strlen,strcat,strcpy with sprintf                    | [C](freepractice/c/str_func_with_sprintf.c)  |                                                                                 | Easy       |
-| 10  | Input and output a float with random digits                    |      [C](freepractice/c/random_float.c)      |                                                                                 | Easy       |
-| 11  | Output the nums which couldn't be divided by n intigers in 1~m |        [C](freepractice/c/rm_multy.c)        |                                                                                 | Easy       |
-| 12  | Output a string recursively                                    |     [C](freepractice/c/recurse_string.c)     | Termination condition: `str[i]`                                                 | Easy       |
-| 13  | Imitate scanf to implement my_scanf                            |        [C](freepractice/c/my_scanf.c)        |                                                                                 | Easy       |
-| 14  | Implement fibonacci with recursion and loop                    |   [C](freepractice/c/fibonacci_by_loop.c)    | How to implement with loop?                                                     | Medium     |
-| 15  | Implement the loop program of indefinite layers                | [C](freepractice/c/indefinite_layers_loop.c) |                                                                                 | Medium     |
-| 16  | Find the sum of all 3 or 5 multiples within 1000               |       [C](freepractice/c/sum_of_3_5.c)       | `sum += i * (i % 3 == 0 \|\| i % 5 == 0)`                                       | Easy       |
+| #   | Summary                                                        |                   Solution                   | Comment                                                                                 | Difficulty |
+| --- | -------------------------------------------------------------- | :------------------------------------------: | --------------------------------------------------------------------------------------- | ---------- |
+| 1   | Caculate the decimal digits of an input integer                | [C](freepractice/c/decimal_digits_of_int.c)  | return value of `printf/sprintf/scanf/...` clusters                                     | Easy       |
+| 2   | Input one line included space                                  | [C](freepractice/c/input_line_with_space.c)  | `scanf("%[^\n]s",str);`                                                                 | Easy       |
+| 3   | Output with color                                              |   [C](freepractice/c/output_with_color.c)    | Format：`\033[attribute{;attribut...}moutput\033[0m`                                    | Easy       |
+| 4   | Output the date x days after the specified date                |     [C](freepractice/c/caculate_date.c)      |                                                                                         | Easy       |
+| 5   | 9*9 mutiplication table                                        |  [C](freepractice/c/mutiplication_table.c)   | `j == 1 \| printf("\t");`                                                               | Easy       |
+| 6   | Output random numbers between 1 and 100                        |       [C](freepractice/c/1_100_rand.c)       | Euler's function, theorem, Fermat's little theorem, remainder cycle knots, etc.         | Hard       |
+| 7   | Caculate PI                                                    |           [C](freepractice/c/PI.c)           | `π*r^2/(2r)^2 == m/n. ->  π = 4 * m/n`                                                  | Easy       |
+| 8   | Caculate the bits of integer from 1 to n                       |     [C](freepractice/c/bits_caculate.c)      | Methematical induction: `f[x] = f[x & (x-1)] + 1`                                       | Medium     |
+| 9   | Implement strlen,strcat,strcpy with sprintf                    | [C](freepractice/c/str_func_with_sprintf.c)  |                                                                                         | Easy       |
+| 10  | Input and output a float with random digits                    |      [C](freepractice/c/random_float.c)      |                                                                                         | Easy       |
+| 11  | Output the nums which couldn't be divided by n intigers in 1~m |        [C](freepractice/c/rm_multy.c)        |                                                                                         | Easy       |
+| 12  | Output a string recursively                                    |     [C](freepractice/c/recurse_string.c)     | Termination condition: `str[i]`                                                         | Easy       |
+| 13  | Imitate scanf to implement my_scanf                            |        [C](freepractice/c/my_scanf.c)        |                                                                                         | Easy       |
+| 14  | Implement fibonacci with recursion and loop                    |   [C](freepractice/c/fibonacci_by_loop.c)    | How to implement with loop?                                                             | Medium     |
+| 15  | Implement the loop program of indefinite layers                | [C](freepractice/c/indefinite_layers_loop.c) |                                                                                         | Medium     |
+| 16  | Find the sum of all 3 or 5 multiples within 1000               |       [C](freepractice/c/sum_of_3_5.c)       | `sum += i * (i % 3 == 0 \|\| i % 5 == 0)` <br/>Let the computer caculate<br/> Algorithm | Easy       |
 
 
 # [Hackerrank](https://www.hackerrank.com/)

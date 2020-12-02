@@ -5,6 +5,20 @@
 
 char* readline();
 
+/*
+ * Sum of Arithmetic Sequence: (a1 + an) * n / 2. 
+ */
+void algorithmic_thinking(int n) {
+	printf("n = %d\n",n);
+	int sum_3 = (3 + n / 3 * 3) * (n / 3) / 2;
+	int sum_5 = (5 + n / 5*5) * (n / 5) / 2;
+	int sum_15 = (15 + n / 15 * 15) * (n / 15) / 2; 
+
+	printf("sum by algorithmic thinking is %d\n", sum_3 + sum_5 - sum_15);
+
+	return;
+}
+
 int main() {
 	char* endptr;
 	char* ptr = readline();
@@ -20,6 +34,9 @@ int main() {
 		ret += i * (i % 3 == 0 || i % 5 == 0);
 	}
 	printf("Sum = %d\n", ret);
+
+	// within n (1000),not include n.
+	algorithmic_thinking(n - 1);
 
 	return 0;
 }
