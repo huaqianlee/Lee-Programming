@@ -46,6 +46,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 11  | [2D arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                           | [C](hackerrank/c/2d_arrays.c)                                                         | `if (ret < tmp \|\| i == 0 && j == 0)`<br/>Do not forget the first hourglass | Easy       |
 | 12  | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)                               | [Python](hackerrank/python/inheritance.py)                                            |                                                                              | Easy       |
 | 13  | [Abstrcat classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)             | [Python](hackerrank/python/abstract_classes.py)                                       | misspelled '__init_' caused arguments error                                  | Easy       |
+|14|[Scope](https://www.hackerrank.com/challenges/30-scope/problem)|[Python](hackerrank/python/scope.py)||Easy|
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
