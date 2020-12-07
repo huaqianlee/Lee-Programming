@@ -67,6 +67,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 7   | [10001st prime](https://projecteuler.net/problem=7)               | [C](projecteuler/c/10001_prime_number.c)          | No algorithm mind                                                                         | Easy       |
 | 8   | [Largest product in a series](https://projecteuler.net/problem=8) | [C](projecteuler/c/largest_product_in_a_series.c) |                                                                                           | Easy       |
 | 9   | [Specail Pythagorean triplet](https://projecteuler.net/problem=9) | [C](projecteuler/c/pythagorean_triplet.c)         |                                                                                           | Easy       |
+| 10  | [Summation of primes](https://projecteuler.net/problem=10)        | [C](projecteuler/c/summmation_of_primes.c)        |                                                                                           | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
