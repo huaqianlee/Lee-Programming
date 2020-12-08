@@ -49,6 +49,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                                 | [Python](hackerrank/python/scope.py)                                                  |                                                                              | Easy       |
 | 15  | [Linked list](https://www.hackerrank.com/challenges/30-linked-list/forum)                                       | [Python](hackerrank/python/lined_list.py)                                             |                                                                              | Easy       |
 | 16  | [Exception of string to integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Python](hackerrank/python/exception_string_to_int.py)                                |                                                                              | Easy       |
+|17|[More exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|[Python](hackerrank/python/more_exception.py)||Easy|
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
@@ -67,7 +68,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 7   | [10001st prime](https://projecteuler.net/problem=7)               | [C](projecteuler/c/10001_prime_number.c)          | No algorithm mind                                                                         | Easy       |
 | 8   | [Largest product in a series](https://projecteuler.net/problem=8) | [C](projecteuler/c/largest_product_in_a_series.c) |                                                                                           | Easy       |
 | 9   | [Specail Pythagorean triplet](https://projecteuler.net/problem=9) | [C](projecteuler/c/pythagorean_triplet.c)         |                                                                                           | Easy       |
-| 10  | [Summation of primes](https://projecteuler.net/problem=10)        | [C](projecteuler/c/summmation_of_primes.c)        |                                                                                           | Easy       |
+| 10  | [Summation of primes](https://projecteuler.net/problem=10)        | [C](projecteuler/c/summmation_of_primes.c)        | `int` -> `long long`, `n = 1` -> `n == 1`                                                 | Easy       |
 
 # [Leetcode](https://leetcode.com/problemset/all/)
 
