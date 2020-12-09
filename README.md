@@ -49,7 +49,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 14  | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                                 | [Python](hackerrank/python/scope.py)                                                  |                                                                              | Easy       |
 | 15  | [Linked list](https://www.hackerrank.com/challenges/30-linked-list/forum)                                       | [Python](hackerrank/python/lined_list.py)                                             |                                                                              | Easy       |
 | 16  | [Exception of string to integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Python](hackerrank/python/exception_string_to_int.py)                                |                                                                              | Easy       |
-|17|[More exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|[Python](hackerrank/python/more_exception.py)||Easy|
+| 17  | [More exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)                             | [Python](hackerrank/python/more_exception.py)                                         |                                                                              | Easy       |
+| 18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                             | [Python](hackerrank/python/stack_queue.py)                                            |                                                                              | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
