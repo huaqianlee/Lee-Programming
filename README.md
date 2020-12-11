@@ -52,6 +52,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 17  | [More exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)                             | [Python](hackerrank/python/more_exception.py)                                         |                                                                              | Easy       |
 | 18  | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)                             | [Python](hackerrank/python/stack_queue.py)                                            |                                                                              | Easy       |
 | 19  | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)                                       | [Python](hackerrank/python/interfaces.py)                                             | Algorithm thinking, and interface is not neccessary for python               | Easy       |
+|20|[Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)|[C](hackerrank/c/sorting.c)||Easy|
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
