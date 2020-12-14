@@ -10,6 +10,7 @@ int init_prime() {
 	for ( int i = 2; i * i <= 1000; ++i) {
 		if (nums[i]) continue;
 
+		// i is prime number from here.
 		for (int j = 2 * i; j <= 1000; j += i) {
 			nums[j] = 1;
 		}
