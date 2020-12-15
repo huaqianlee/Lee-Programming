@@ -58,6 +58,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 21  | [Generics]https://www.hackerrank.com/challenges/30-generics/problem()                                           | [Java](hackerrank/java/Generics.java)                                                 |                                                                              | Easy       |
 | 22  | [Binary search trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)                     | [C](hackerrank/c/binary_search_trees.c)                                               | `while(T-->0)`                                                               | Easy       |
 | 23  | [BST level-order traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)                      | [C](hackerrank/c/bst_binary_trees.c)                                                  |                                                                              | Easy       |
+| 24  | [Linked list deletion](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                   | [C](hackerrank/c/linked_list_deletion.c)                                              |                                                                              | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
