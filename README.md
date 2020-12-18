@@ -62,6 +62,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 24  | [Linked list deletion](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)                   | [C](hackerrank/c/linked_list_deletion.c)                                              |                                                                                                  | Easy       |
 | 25  | [Time and complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)             | [C](hackerrank/c/is_prime_or_not.c)                                                   | `i * i to save the time, and remember the edge cases: 0 and 1 are not prime, 2 and 3 are prime.` | Medium     |
 | 26  | [Nested logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   | [C](hackerrank/c/nested_logci.c)                                                      | `Think more`                                                                                     | Easy       |
+| 27  | [Unit test](https://www.hackerrank.com/challenges/30-testing/problem)                                           | [Python](hackerrank/python/unit_test.c)                                               |                                                                                                  | Easy       |
+
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
