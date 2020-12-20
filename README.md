@@ -36,6 +36,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 
 | #   | Title                                                                                                           | Solution                                                                              | Comment                                                                                          | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| 0   | [Hello world](https://www.hackerrank.com/challenges/30-hello-world/problem)                                     | [Python](hackerrank/python/hello_word.py)                                             |                                                                                                  | Easy       |
 | 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                       | [C](hackerrank/c/data_types.c)                                                        | `while(getchar != '\n')` to clean input buffer                                                   | Easy       |
 | 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                         | [C](hackerrank/c/operators.c)                                                         | Review questions carefully                                                                       | Easy       |
 | 3   | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)               | [C](hackerrank/c/conditional_statements.c)                                            |                                                                                                  | Easy       |
@@ -64,6 +65,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 26  | [Nested logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   | [C](hackerrank/c/nested_logci.c)                                                      | `Think more`                                                                                     | Easy       |
 | 27  | [Unit test](https://www.hackerrank.com/challenges/30-testing/problem)                                           | [Python](hackerrank/python/unit_test.c)                                               |                                                                                                  | Easy       |
 
+|28|[ | | |
+|29|[Bitwise and](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|[C](hackerrank/c/bitwise_and.c),[Java](hackerrank/java/bitwise_and.java)||Medium|
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
