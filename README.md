@@ -64,9 +64,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 25  | [Time and complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)             | [C](hackerrank/c/is_prime_or_not.c)                                                   | `i * i to save the time, and remember the edge cases: 0 and 1 are not prime, 2 and 3 are prime.` | Medium     |
 | 26  | [Nested logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)                                   | [C](hackerrank/c/nested_logci.c)                                                      | `Think more`                                                                                     | Easy       |
 | 27  | [Unit test](https://www.hackerrank.com/challenges/30-testing/problem)                                           | [Python](hackerrank/python/unit_test.c)                                               |                                                                                                  | Easy       |
-
-|28|[ | | |
-|29|[Bitwise and](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|[C](hackerrank/c/bitwise_and.c),[Java](hackerrank/java/bitwise_and.java)||Medium|
+| 28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)      | [Python](hackerrank/python/regax_and_others.py)                                       |                                                                                                  | Medium     |
+| 29  | [Bitwise and](https://www.hackerrank.com/challenges/30-bitwise-and/problem)                                     | [C](hackerrank/c/bitwise_and.c),[Java](hackerrank/java/bitwise_and.java)              |                                                                                                  | Medium     |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
