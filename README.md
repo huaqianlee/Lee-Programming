@@ -66,6 +66,8 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 27  | [Unit test](https://www.hackerrank.com/challenges/30-testing/problem)                                           | [Python](hackerrank/python/unit_test.c)                                               |                                                                                                  | Easy       |
 | 28  | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)      | [Python](hackerrank/python/regax_and_others.py)                                       |                                                                                                  | Medium     |
 | 29  | [Bitwise and](https://www.hackerrank.com/challenges/30-bitwise-and/problem)                                     | [C](hackerrank/c/bitwise_and.c),[Java](hackerrank/java/bitwise_and.java)              |                                                                                                  | Medium     |
+| 0   | [Hello world](https://www.hackerrank.com/challenges/hello-world-c/problem)                                      | [C](hackerrank/c/hello_world.c)                                                       |                                                                                                  | Easy       |
+| 0   | [Hello world](https://www.hackerrank.com/challenges/py-hello-world/problem)                                     | [Python](hackerrank/python/hello_word_self.py)                                        |                                                                                                  | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
