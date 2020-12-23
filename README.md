@@ -69,6 +69,7 @@ For a long time, I have been doing BSP related work. Although I am very interest
 | 0   | [Hello world](https://www.hackerrank.com/challenges/hello-world-c/problem)                                      | [C](hackerrank/c/hello_world.c)                                                       |                                                                                                  | Easy       |
 | 1   | [Playing with charger](https://www.hackerrank.com/challenges/playing-with-characters/problem)                   | [C](hackerrank/c/play_with_characters.c)                                              | 1. `scanf("%[^\n]%*c", s)` and `scanf("%[^\n]s", sentence);`                                     | Easy       |
 | 0   | [Hello world](https://www.hackerrank.com/challenges/py-hello-world/problem)                                     | [Python](hackerrank/python/hello_word_self.py)                                        |                                                                                                  | Easy       |
+| 1   | [If else statement](https://www.hackerrank.com/challenges/py-if-else/problem)                                   | [Python](hackerrank/python/if-else.py)                                                |                                                                                                  | Easy       |
 
 # [GeeksforGeeks](https://practice.geeksforgeeks.org/home/)
 
